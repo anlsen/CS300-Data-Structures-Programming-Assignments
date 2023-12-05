@@ -1,0 +1,57 @@
+﻿  anilsen_sen_anil_hw4.cpp
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(132,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(129,56): message : while compiling class template member function 'bool Hash<std::string>::searchHash(Comparable)'
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\anilsen_sen_anil_hw4.cpp(162,4): message : see reference to function template instantiation 'bool Hash<std::string>::searchHash(Comparable)' being compiled
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\anilsen_sen_anil_hw4.cpp(45,15): message : see reference to class template instantiation 'Hash<std::string>' being compiled
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(167,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(164,1): message : while compiling class template member function 'void Hash<std::string>::searchHashWithoutPrint(Comparable)'
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\anilsen_sen_anil_hw4.cpp(169,34): message : see reference to function template instantiation 'void Hash<std::string>::searchHashWithoutPrint(Comparable)' being compiled
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(206,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(205,94): message : while compiling class template member function 'bool Hash<std::string>::insertHash(Comparable,Comparable,Comparable)'
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\anilsen_sen_anil_hw4.cpp(97,20): message : see reference to function template instantiation 'bool Hash<std::string>::insertHash(Comparable,Comparable,Comparable)' being compiled
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(291,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(289,55): message : while compiling class template member function 'bool Hash<std::string>::deleteHash(Comparable)'
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\anilsen_sen_anil_hw4.cpp(273,21): message : see reference to function template instantiation 'bool Hash<std::string>::deleteHash(Comparable)' being compiled
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(86,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(80,1): message : while compiling class template member function 'void Hash<std::string>::reHash(void)'
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(275,25): message : see reference to function template instantiation 'void Hash<std::string>::reHash(void)' being compiled
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(32,26): message : while compiling class template member function 'Hash<std::string>::Hash(void)'
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\anilsen_sen_anil_hw4.cpp(45,15): message : see reference to function template instantiation 'Hash<std::string>::Hash(void)' being compiled
+  Generating code
+  1 of 339 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS300-HW4.vcxproj -> C:\Users\anil17\source\repos\CS300-HW4\x64\Release\CS300-HW4.exe

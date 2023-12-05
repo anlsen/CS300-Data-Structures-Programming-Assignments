@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(128,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(125,56): message : while compiling class template member function 'void Hash<std::string>::searchHash(Comparable)'
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\main.cpp(134,19): message : see reference to function template instantiation 'void Hash<std::string>::searchHash(Comparable)' being compiled
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\main.cpp(45,15): message : see reference to class template instantiation 'Hash<std::string>' being compiled
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(157,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(156,94): message : while compiling class template member function 'void Hash<std::string>::insertHash(Comparable,Comparable,Comparable)'
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\main.cpp(97,20): message : see reference to function template instantiation 'void Hash<std::string>::insertHash(Comparable,Comparable,Comparable)' being compiled
+          with
+          [
+              Comparable=std::string
+          ]
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(82,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(76,1): message : while compiling class template member function 'void Hash<std::string>::reHash(void)'
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(218,25): message : see reference to function template instantiation 'void Hash<std::string>::reHash(void)' being compiled
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\Hash.cpp(32,26): message : while compiling class template member function 'Hash<std::string>::Hash(void)'
+C:\Users\anil17\source\repos\CS300-HW4\CS300-HW4\main.cpp(45,15): message : see reference to function template instantiation 'Hash<std::string>::Hash(void)' being compiled
+  CS300-HW4.vcxproj -> C:\Users\anil17\source\repos\CS300-HW4\x64\Debug\CS300-HW4.exe
